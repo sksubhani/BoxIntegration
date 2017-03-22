@@ -106,6 +106,9 @@ Before we connect to Box from Java application, please make sure you have the be
 
    * It asks for the "API Key". Provide the api key which we noted earlier.  <br/>
    * This is available in the app edit page (https://app.box.com/developers/services/ and then select the app name, navigate to the bottom of the page or search for the keyword)
+   
+   # If creating the application in an organization:
+   * The Application Name and the API key need to be sent to Box Admin and ask to Authorize the appliacation.
       
 # Create the Java program and Run:
     
